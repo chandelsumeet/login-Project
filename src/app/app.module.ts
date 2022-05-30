@@ -11,7 +11,7 @@ export function MSALInstanceFactory():IPublicClientApplication
     {
       auth:{
         clientId:'f3798c7e-82a5-4de5-a1d3-11370cf8c11c',
-        redirectUri:'http://localhost:4200',
+        redirectUri:'https://629484e5b6a95f044846a16c--beautiful-douhua-bd6f94.netlify.app/',
       }
     }
   )
